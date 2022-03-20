@@ -1,7 +1,7 @@
 # Hello World, I’m Paden Myjak!
 - I am an aspiring Software Engineer, Indie Game Developer, and I love all-things Programming!
 - I’m currently pursuing my Bachelor's in Computer Science at the University of Central Florida.
-- You can learn more about me and my skill set on my GitHub Projects Portfolio, and LinkedIn profile
+- You can learn more about me and my skill set on my GitHub Projects Portfolio, and LinkedIn profile.
 
 ### Links:
 - [GitHub Portfolio](https://github.com/pamyjak/portfolio)
